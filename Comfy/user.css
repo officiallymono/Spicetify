@@ -1,5 +1,5 @@
 @import url("https://comfy-themes.github.io/Spicetify/Comfy/app.css");
-:root .Root__now-playing-bar .playback-bar .playback-progressbar > div > div > div > div {
+@import :root .Root__now-playing-bar .playback-bar .playback-progressbar > div > div > div > div {
 
 width: 100%;
 
