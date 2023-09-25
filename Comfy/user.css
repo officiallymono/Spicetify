@@ -1,1 +1,8 @@
 @import url("https://comfy-themes.github.io/Spicetify/Comfy/app.css");
+:root .Root__now-playing-bar .playback-bar .playback-progressbar > div > div > div > div {
+
+width: 100%;
+
+background-color: rgb(30, 215, 96);
+
+background-image: linear-gradient(90deg, #1ed760 93%, transparent 100%);}
